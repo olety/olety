@@ -4,6 +4,8 @@ Version A (role) names the project and is shown now. Version B (neutral) is in t
 Both versions carry the same "Selected work" list.
 [confirm] Madoguchi: may the company it was built for be named? Its README already names it, so the link shows the name.
 [confirm] Madoguchi: its README does not say the entry won, so this list does not either. To print "won", add the result to that README first.
+[confirm] The paper-replication site is not in the list. To add it, paste this line at the end of the list:
+- [Underclass?](https://amiunderclass.com). Sends six borderline requests to Claude with the visitor's context, judges the answers with Transluce's published rubric, and sets them beside that study's published results. Its README calls the comparison indicative, not a replication. 2026.
 -->
 
 I build [Oneiron](https://github.com/oneiron-dev/oneiron), an open-source memory engine for AI agents, written in Rust. Agents save memories to a local vault and recall them over HTTP or MCP. It is pre-release and builds from source; the [quickstart](https://github.com/oneiron-dev/oneiron#agent-quickstart-install-connect-remember) starts from a clone.

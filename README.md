@@ -8,7 +8,7 @@ Both versions carry the same "Selected work" list.
 - [Underclass?](https://amiunderclass.com). Sends six borderline requests to Claude with the visitor's context, judges the answers with Transluce's published rubric, and sets them beside that study's published results. Its README calls the comparison indicative, not a replication. 2026.
 -->
 
-I build [Oneiron](https://github.com/oneiron-dev/oneiron), an open-source memory engine for AI agents, written in Rust. Agents save memories to a local vault and recall them over HTTP or MCP. It is pre-release and builds from source; the [quickstart](https://github.com/oneiron-dev/oneiron#agent-quickstart-install-connect-remember) starts from a clone.
+I build [Oneiron](https://github.com/oneiron-dev/oneiron), an open-source memory engine for AI agents, written in Rust. Agents save memories to a local vault and recall them over HTTP or MCP. It is pre-release, with no prebuilt binary yet. The [quickstart](https://github.com/oneiron-dev/oneiron#agent-quickstart) runs on Linux x86-64 with a binary you build from source, and the README gives the build's measured time and memory.
 
 AIエージェント向けのオープンソースのメモリエンジン「Oneiron」をRustで開発しています。東京在住です。
 
